@@ -1,7 +1,7 @@
 ##############################################################
-# Homework #2
-# name: DAN CHOE
-# sbuid: 110131643
+# Created by Dan Choe on 09/25/16
+# dan.choe@stonybrook.edu
+# Copyright © 2016 DanChoe. All rights reserved.
 ##############################################################
 .text
 
